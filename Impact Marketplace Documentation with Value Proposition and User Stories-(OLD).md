@@ -1,4 +1,4 @@
-# Impact NFT Marketplace Documentation
+# Impact Marketplace Documentation
 
 ## Introduction
 The Impact NFT Marketplace facilitates the buying, selling, and trading of Impact NFTs (INFTs), supporting various environmental and social projects. This platform ensures that transactions directly contribute to impactful causes, fostering a community of contributors passionate about making a difference.
